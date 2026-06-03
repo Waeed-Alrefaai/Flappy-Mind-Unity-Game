@@ -69,6 +69,11 @@ The player controls the character by making it fly through obstacles. The goal i
 - Developed Easy and Hard difficulty modes with different gameplay settings.
 - Designed a character selection shop and dynamic game flow.
 
+## Gameplay Demo
+
+🎥 Watch the gameplay video:
+https://youtu.be/j6x5Jaq50lM
+
 ## Developer
 
 Developed by Waeed Alrefaai.
