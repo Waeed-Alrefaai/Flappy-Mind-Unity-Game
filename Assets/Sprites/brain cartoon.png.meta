@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: aa55e59048ecbc64fa00bc8bd7fd0816
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4458012837733969767
+    second: brain cartoon_0
+  - first:
+      213: 8112825027147639895
+    second: brain cartoon_1
+  - first:
+      213: 3411733882465511399
+    second: brain cartoon_2
+  - first:
+      213: 2426155592916837412
+    second: brain cartoon_3
+  - first:
+      213: 2764204182170758006
+    second: brain cartoon_4
+  - first:
+      213: -7578433931790539952
+    second: brain cartoon_5
+  - first:
+      213: -5813775778378936635
+    second: brain cartoon_6
+  - first:
+      213: 5118293566484655051
+    second: brain cartoon_7
+  - first:
+      213: 1064144426578799125
+    second: brain cartoon_8
+  - first:
+      213: -5774536973301338304
+    second: brain cartoon_9
+  - first:
+      213: 5119362214894228129
+    second: brain cartoon_10
+  - first:
+      213: 7512289870348767003
+    second: brain cartoon_11
+  - first:
+      213: -8395712941406199841
+    second: brain cartoon_12
+  - first:
+      213: 4576815922682330097
+    second: brain cartoon_13
+  - first:
+      213: 4147337875802725442
+    second: brain cartoon_14
+  - first:
+      213: -5544941053660895271
+    second: brain cartoon_15
+  - first:
+      213: 7649752453527661630
+    second: brain cartoon_16
+  - first:
+      213: 8407737155954520732
+    second: brain cartoon_17
+  - first:
+      213: 1922409246361313126
+    second: brain cartoon_18
+  - first:
+      213: 6071575291990859379
+    second: brain cartoon_19
+  - first:
+      213: -5653065750923390021
+    second: brain cartoon_20
+  - first:
+      213: 65329068919808734
+    second: brain cartoon_21
+  - first:
+      213: -6509511707122885857
+    second: brain cartoon_22
+  - first:
+      213: -3941002310475519877
+    second: brain cartoon_23
+  - first:
+      213: -2529142394946394398
+    second: brain cartoon_24
+  - first:
+      213: 6863403428054583271
+    second: brain cartoon_25
+  - first:
+      213: -3164936041503880565
+    second: brain cartoon_26
+  - first:
+      213: 1193123981686226553
+    second: brain cartoon_27
+  - first:
+      213: 2280757723046428419
+    second: brain cartoon_28
+  - first:
+      213: -6588597871337996515
+    second: brain cartoon_29
+  - first:
+      213: -3165541975096536522
+    second: brain cartoon_30
+  - first:
+      213: -4645410217669019167
+    second: brain cartoon_31
+  - first:
+      213: -898855470190787516
+    second: brain cartoon_32
+  - first:
+      213: 3595493815298843974
+    second: brain cartoon_33
+  - first:
+      213: 2167259910997750261
+    second: brain cartoon_34
+  - first:
+      213: 7836309375864570091
+    second: brain cartoon_35
+  - first:
+      213: -8858087683416888216
+    second: brain cartoon_36
+  - first:
+      213: -6599188438790754705
+    second: brain cartoon_37
+  - first:
+      213: 5790666188006137690
+    second: brain cartoon_38
+  - first:
+      213: -389591401155405368
+    second: brain cartoon_39
+  - first:
+      213: -4231636429015365318
+    second: brain cartoon_40
+  - first:
+      213: 1104687756683277848
+    second: brain cartoon_41
+  - first:
+      213: 1196043443909880827
+    second: brain cartoon_42
+  - first:
+      213: -6316527864522967631
+    second: brain cartoon_43
+  - first:
+      213: 3844577260725808089
+    second: brain cartoon_44
+  - first:
+      213: -4202397155697624591
+    second: brain cartoon_45
+  - first:
+      213: 8273704032805055979
+    second: brain cartoon_46
+  - first:
+      213: -6562192400076216593
+    second: brain cartoon_47
+  - first:
+      213: 5627895087116197828
+    second: brain cartoon_48
+  - first:
+      213: -2940589241048204677
+    second: brain cartoon_49
+  - first:
+      213: -1816936652018796638
+    second: brain cartoon_50
+  - first:
+      213: 8747829671273019825
+    second: brain cartoon_51
+  - first:
+      213: 4815605273718157188
+    second: brain cartoon_52
+  - first:
+      213: -5697430717852731334
+    second: brain cartoon_53
+  - first:
+      213: -633727062990008852
+    second: brain cartoon_54
+  - first:
+      213: 812327823016543936
+    second: brain cartoon_55
+  - first:
+      213: 3456326946036207190
+    second: brain cartoon_56
+  - first:
+      213: -3109173833940865055
+    second: brain cartoon_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brain cartoon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4526
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fa34d6e0b0edd30800000000000000
+      internalID: 4458012837733969767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_1
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 4075
+        width: 524
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca80ce06b869070800000000000000
+      internalID: 8112825027147639895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4110
+        width: 182
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76584d3e9e85f20800000000000000
+      internalID: 3411733882465511399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_3
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3357
+        width: 1295
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424a2ad48af6ba120800000000000000
+      internalID: 2426155592916837412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_4
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4277
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67befecee0d6c5620800000000000000
+      internalID: 2764204182170758006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_5
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 4068
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053abd5cd7ef3d690800000000000000
+      internalID: -7578433931790539952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_6
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 4196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce04f57bb1515fa0800000000000000
+      internalID: -5813775778378936635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_7
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 4195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb2c7e71e4d70740800000000000000
+      internalID: 5118293566484655051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_8
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 4196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae0f7c7b994ce00800000000000000
+      internalID: 1064144426578799125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3755
+        width: 146
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa304b739bcdfa0800000000000000
+      internalID: -5774536973301338304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3986
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2d3579fc0ab0740800000000000000
+      internalID: 5119362214894228129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 4015
+        width: 158
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f47e3d5d3014860800000000000000
+      internalID: 7512289870348767003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_12
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 4004
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf555bef8f6c7b80800000000000000
+      internalID: -8395712941406199841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_13
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3094
+        width: 1088
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf4d925dd148f30800000000000000
+      internalID: 4576815922682330097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_14
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3997
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c9eb213dd4e8930800000000000000
+      internalID: 4147337875802725442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_15
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 3990
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ef047d796c03b0800000000000000
+      internalID: -5544941053660895271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3464
+        width: 300
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c603c8351692a60800000000000000
+      internalID: 7649752453527661630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3641
+        width: 115
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b581b5684ea470800000000000000
+      internalID: 8407737155954520732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_18
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3778
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fda423605cdaa10800000000000000
+      internalID: 1922409246361313126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_19
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3684
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e572a3f81924450800000000000000
+      internalID: 6071575291990859379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_20
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3642
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d84896a64c81b0800000000000000
+      internalID: -5653065750923390021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3396
+        width: 158
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e87a217818e000800000000000000
+      internalID: 65329068919808734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 3595
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b91bb579199a5a0800000000000000
+      internalID: -6509511707122885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2629
+        width: 1044
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78ec19674fbe49c0800000000000000
+      internalID: -3941002310475519877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_24
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 3165
+        width: 164
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6e6da446ea6ecd0800000000000000
+      internalID: -2529142394946394398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_25
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3340
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7446fcd05bf3f50800000000000000
+      internalID: 6863403428054583271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_26
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 3339
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a84555073e314d0800000000000000
+      internalID: -3164936041503880565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_27
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e386d90f3de8010800000000000000
+      internalID: 1193123981686226553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_28
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 3336
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f39eca011e6af10800000000000000
+      internalID: 2280757723046428419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_29
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 3130
+        width: 137
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff007d4299094a0800000000000000
+      internalID: -6588597871337996515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_30
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 3179
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63258cc685cb114d0800000000000000
+      internalID: -3165541975096536522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_31
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93edbf400388fb0800000000000000
+      internalID: -4645410217669019167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_32
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3133
+        width: 282
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4448cd256bf9683f0800000000000000
+      internalID: -898855470190787516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_33
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 3077
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64560054392c5e130800000000000000
+      internalID: 3595493815298843974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_34
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 3219
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f137fa0867a31e10800000000000000
+      internalID: 2167259910997750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_35
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3027
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0887adbd920cc60800000000000000
+      internalID: 7836309375864570091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_36
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3116
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6ca02f20c11580800000000000000
+      internalID: -8858087683416888216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_37
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 3130
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e23043419fa64a0800000000000000
+      internalID: -6599188438790754705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_38
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 3091
+        width: 172
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f98fcb7349c5050800000000000000
+      internalID: 5790666188006137690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_39
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2849
+        width: 197
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d59e4fa4e79af0800000000000000
+      internalID: -389591401155405368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_40
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 3027
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39cfe586153645c0800000000000000
+      internalID: -4231636429015365318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_41
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3044
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81674dc69a3a45f00800000000000000
+      internalID: 1104687756683277848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_42
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3009
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbee22ec23399010800000000000000
+      internalID: 1196043443909880827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_43
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 2963
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57045af5f2758a0800000000000000
+      internalID: -6316527864522967631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_44
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2718
+        width: 232
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db2b1136aeaa5530800000000000000
+      internalID: 3844577260725808089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_45
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 2543
+        width: 211
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f7895d061ea5c0800000000000000
+      internalID: -4202397155697624591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2355
+        width: 207
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedef0c5bf912d270800000000000000
+      internalID: 8273704032805055979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_47
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2572
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe660b5b7c86ee4a0800000000000000
+      internalID: -6562192400076216593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2227
+        width: 275
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1abc83cc4a1e40800000000000000
+      internalID: 5627895087116197828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2440
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a7cf84aade037d0800000000000000
+      internalID: -2940589241048204677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2490
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73805ddb1f8c6e0800000000000000
+      internalID: -1816936652018796638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2437
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9b9dfecb8866970800000000000000
+      internalID: 8747829671273019825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_52
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2352
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe7767b7774d240800000000000000
+      internalID: 4815605273718157188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2163
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383df9c2f8aee0b0800000000000000
+      internalID: -5697430717852731334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_54
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 1762
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcde5089c8437f0800000000000000
+      internalID: -633727062990008852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_55
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1668
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c64114e9d7f54b00800000000000000
+      internalID: 812327823016543936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1659
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e49168b0757ff20800000000000000
+      internalID: 3456326946036207190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain cartoon_57
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 291
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efe3030fdef9d4d0800000000000000
+      internalID: -3109173833940865055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brain cartoon_0: 4458012837733969767
+      brain cartoon_1: 8112825027147639895
+      brain cartoon_10: 5119362214894228129
+      brain cartoon_11: 7512289870348767003
+      brain cartoon_12: -8395712941406199841
+      brain cartoon_13: 4576815922682330097
+      brain cartoon_14: 4147337875802725442
+      brain cartoon_15: -5544941053660895271
+      brain cartoon_16: 7649752453527661630
+      brain cartoon_17: 8407737155954520732
+      brain cartoon_18: 1922409246361313126
+      brain cartoon_19: 6071575291990859379
+      brain cartoon_2: 3411733882465511399
+      brain cartoon_20: -5653065750923390021
+      brain cartoon_21: 65329068919808734
+      brain cartoon_22: -6509511707122885857
+      brain cartoon_23: -3941002310475519877
+      brain cartoon_24: -2529142394946394398
+      brain cartoon_25: 6863403428054583271
+      brain cartoon_26: -3164936041503880565
+      brain cartoon_27: 1193123981686226553
+      brain cartoon_28: 2280757723046428419
+      brain cartoon_29: -6588597871337996515
+      brain cartoon_3: 2426155592916837412
+      brain cartoon_30: -3165541975096536522
+      brain cartoon_31: -4645410217669019167
+      brain cartoon_32: -898855470190787516
+      brain cartoon_33: 3595493815298843974
+      brain cartoon_34: 2167259910997750261
+      brain cartoon_35: 7836309375864570091
+      brain cartoon_36: -8858087683416888216
+      brain cartoon_37: -6599188438790754705
+      brain cartoon_38: 5790666188006137690
+      brain cartoon_39: -389591401155405368
+      brain cartoon_4: 2764204182170758006
+      brain cartoon_40: -4231636429015365318
+      brain cartoon_41: 1104687756683277848
+      brain cartoon_42: 1196043443909880827
+      brain cartoon_43: -6316527864522967631
+      brain cartoon_44: 3844577260725808089
+      brain cartoon_45: -4202397155697624591
+      brain cartoon_46: 8273704032805055979
+      brain cartoon_47: -6562192400076216593
+      brain cartoon_48: 5627895087116197828
+      brain cartoon_49: -2940589241048204677
+      brain cartoon_5: -7578433931790539952
+      brain cartoon_50: -1816936652018796638
+      brain cartoon_51: 8747829671273019825
+      brain cartoon_52: 4815605273718157188
+      brain cartoon_53: -5697430717852731334
+      brain cartoon_54: -633727062990008852
+      brain cartoon_55: 812327823016543936
+      brain cartoon_56: 3456326946036207190
+      brain cartoon_57: -3109173833940865055
+      brain cartoon_6: -5813775778378936635
+      brain cartoon_7: 5118293566484655051
+      brain cartoon_8: 1064144426578799125
+      brain cartoon_9: -5774536973301338304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
