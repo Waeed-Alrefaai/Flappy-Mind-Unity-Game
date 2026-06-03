@@ -21,6 +21,26 @@ The game challenges the player to control a character, avoid obstacles, collect 
 
 The player controls the character by making it fly through obstacles. The goal is to pass pipes, collect coins, and keep the power level above zero. The player wins after successfully passing the required number of pipes.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/main-menu.png)
+
+### Character Selection
+![Character Selection](Screenshots/character-selection.png)
+
+### Gameplay
+![Gameplay](Screenshots/gameplay.png)
+
+### Power Bar and Shield System
+![Power Bar and Shield](Screenshots/powerbar-and-shield.png)
+
+### Win Screen
+![Win Screen](Screenshots/win-screen.png)
+
+### Game Over Screen
+![Game Over Screen](Screenshots/game-over-screen.png)
+
 ## Technologies Used
 
 - Unity 2D
