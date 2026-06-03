@@ -23,8 +23,11 @@ The player controls the character by making it fly through obstacles. The goal i
 
 ## Technologies Used
 
-* Unity
-* C#
+- Unity 2D
+- C#
+- Visual Studio
+- Unity UI System
+- Audio Management
 
 ## Project Structure
 
@@ -38,6 +41,13 @@ The player controls the character by making it fly through obstacles. The goal i
 2. Open the project using Unity.
 3. Open the main scene from the `Assets` folder.
 4. Press Play to start the game.
+
+## Challenges and Solutions
+
+- Implemented a Power Bar system that decreases after collisions.
+- Added a Shield reward system activated after collecting coins.
+- Developed Easy and Hard difficulty modes with different gameplay settings.
+- Designed a character selection shop and dynamic game flow.
 
 ## Developer
 
